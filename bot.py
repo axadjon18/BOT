@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import logging
 
 # Bot tokenini kiriting
-TOKEN = '7374096561:AAE30WHvVbuV9acxLshJ2DBDmKMWckpibn4'
+TOKEN = 'Yor token'
 
 # Tugmalar bilan menyu
 def build_main_menu():
